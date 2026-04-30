@@ -1,1 +1,1 @@
-# Your variables.tf content here
+# variables.tf content here

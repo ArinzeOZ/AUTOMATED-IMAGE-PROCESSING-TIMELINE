@@ -1,1 +1,1 @@
-# Your outputs.tf content here
+# outputs.tf content here
