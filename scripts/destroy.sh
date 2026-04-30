@@ -1,0 +1,1 @@
+# Your destroy.sh content here
