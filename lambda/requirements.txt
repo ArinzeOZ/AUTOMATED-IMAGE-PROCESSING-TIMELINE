@@ -1,1 +1,1 @@
-# requirements.txt contents here
+Pillow==10.4.0
